@@ -1,4 +1,4 @@
-# 👋 Hola, soy @AlvaroGomezNerpio
+# 👋 Hola, soy Álvaro Gómez Alafro
 
 ## Sobre mí
 🎓 Soy un estudiante entusiasta del **Grado Superior de Desarrollo de Aplicaciones Web**, en busca de oportunidades para poner en práctica mis conocimientos y adquirir experiencia en el sector. Actualmente, estoy cursando un **Máster Profesional en Desarrollo Fullstack y Pentesting Web**, en constante formación para convertirme en un desarrollador web completo y experto en seguridad web.
