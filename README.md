@@ -26,6 +26,3 @@
 - 💼 Oportunidades para realizar prácticas o trabajar como **Desarrollador Junior** en empresas del sector IT.
 - 👥 Unirme a un equipo dinámico y con ganas de compartir sus conocimientos y experiencia.
 - 🚀 Formar parte de proyectos desafiantes que me permitan aprender y crecer profesionalmente.
-
-## Cómo contactarme
-📫 No dudes en ponerte en contacto conmigo si buscas un estudiante motivado, con ganas de aprender y con gran potencial.l
