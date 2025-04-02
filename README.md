@@ -28,11 +28,4 @@
 - 🚀 Formar parte de proyectos desafiantes que me permitan aprender y crecer profesionalmente.
 
 ## Cómo contactarme
-📫 No dudes en ponerte en contacto conmigo si buscas un estudiante motivado, con ganas de aprender y con gran potencial.
-
-## Pronombres
-- 😄 Él
-
-## Curiosidad
-- ⚡ Siempre estoy al tanto de las últimas tendencias y avances en desarrollo web y seguridad.
-
+📫 No dudes en ponerte en contacto conmigo si buscas un estudiante motivado, con ganas de aprender y con gran potencial.l
